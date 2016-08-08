@@ -1,0 +1,98 @@
+*{
+	box-sizing: border-box;
+}
+.menu{
+	padding: 3%;
+}
+.nav{
+	padding: 3% 0;
+}
+.logo{
+	margin-left: 30%;
+}
+.banner{
+	background-image: url("../img/semilla.jpg");
+	height: 400px;
+	background-size: 100%;
+}
+.letra, .cargo{
+	font-size: 0.9em;
+}
+.bigletra{
+	font-size: 1.5em;
+}
+.mletra{
+	font-size: 1.2em;
+}
+.frase{
+	height: 180px;
+	padding: 5% 20%;
+}
+.politicas{
+	padding: 3% 10%;
+}
+.imagen{
+	padding: 3% 30%;
+}
+.expo {
+	background-image: url("../img/metodo.jpg");
+	height: 400px;
+	background-size: 100%;
+}
+.green {
+	background-image: url("../img/fondo.jpg");
+	height: 400px;
+	background-size: 120%;
+}
+.lapiz{
+	padding: 5% 43%;
+}
+.servicios{
+	padding: 0 15%
+}
+.contser{
+	padding: 2%;
+	height: 400px;
+}
+.imgserv{
+	padding: 4% 18%;
+}
+.proyecimg{
+	height: 300px;
+	width: 450px;
+}
+.proyecto{
+	padding: 1% 10%;
+}
+.equipo{
+	border-radius: 100%;
+	padding: 0 20%;
+}
+.ebloque{
+	padding: 0 5%;
+}
+.redes{
+	padding:3% 30%;
+}
+.ico{
+	padding: 2%
+}
+.sliderbar{
+	background-image: url("../img/fondo2.jpg");
+}
+.slibloque{
+	padding: 0 1%;
+}
+.slibot{
+	padding: 10% 2%;
+}
+th{
+	border: 1px white solid;
+	height: 200px;
+	padding: 1%
+}
+.pie{
+	padding: 2%;
+}
+
+
